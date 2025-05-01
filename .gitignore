@@ -1,0 +1,7 @@
+*.log
+/temp/
+.idea
+Extra_Fully_Connected_Graphs/
+Real-world Graphs/
+Toy-Graphs/
+cmake-build-debug/
